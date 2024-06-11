@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\menu.csproj|C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\menu.csproj|solutionrelative:menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\Menu.csproj|C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\Menu.csproj|c:\\users\\gaby plata\\source\\repos\\ejer-menu\\menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20809417-A0C6-4B58-88D0-292832D398E2}|menu\\Menu.csproj|solutionrelative:menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "menu\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\MenuPrincipal.cs",
+              "RelativeToolTip": "menu\\MenuPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:03:37.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\Program.cs",
+              "RelativeDocumentMoniker": "menu\\Program.cs",
+              "ToolTip": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\Program.cs",
+              "RelativeToolTip": "menu\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:36:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\Menu.cs",
+              "RelativeDocumentMoniker": "menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Gaby Plata\\source\\repos\\ejer-menu\\menu\\Menu.cs",
+              "RelativeToolTip": "menu\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:15:15.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

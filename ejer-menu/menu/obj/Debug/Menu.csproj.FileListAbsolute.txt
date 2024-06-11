@@ -1,0 +1,7 @@
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\bin\Debug\menu.exe.config
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\bin\Debug\menu.exe
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\bin\Debug\menu.pdb
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\obj\Debug\menu.exe
+C:\Users\Gaby Plata\source\repos\ejer-menu\menu\obj\Debug\menu.pdb
